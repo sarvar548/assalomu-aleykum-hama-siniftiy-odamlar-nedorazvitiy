@@ -1,0 +1,1 @@
+# assalomu-aleykum-hama-siniftiy-odamlar-nedorazvitiy
