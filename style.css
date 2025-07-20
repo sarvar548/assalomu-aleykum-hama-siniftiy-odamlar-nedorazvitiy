@@ -1,0 +1,27 @@
+table{
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    width:80% ;
+}
+
+
+
+td,
+th{
+    border: 1px solid black;
+}
+
+
+.heade1{
+    background-color: aqua;
+}
+.heade2{
+    background-color: lightblue;
+}
+.heade3{
+    background-color: lightgreen;
+}
+
+
+
+
